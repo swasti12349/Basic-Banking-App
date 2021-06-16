@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sro.basicbaningapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/imgbank"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/imgbank"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BasicBaningApp">
+        <activity android:name=".activity.FirstActivity">
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.TransactionHistory">
+
+        </activity>
+        <activity android:name=".activity.SendToUser" />
+        <activity android:name=".activity.userDetail" />
+        <activity android:name=".activity.MainActivity" />
+    </application>
+
+</manifest>

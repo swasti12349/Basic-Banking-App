@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Banking App</string>
+    <string name="select_a_user_to_transfer_money">Select a user to transfer money</string>
+    <string name="users">Users</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="basic_banking_app">Basic Banking App</string>
+    <string name="todo">TODO</string>
+</resources>
