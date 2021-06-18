@@ -1,5 +1,5 @@
 package com.sro.basicbaningapp.model;
-// Code written by SWASTI RANJAN OJHA
+/* Code written by SWASTI RANJAN OJHA */
 public class user {
     String name, acno, ifsc, email, phno;
     int bal;
