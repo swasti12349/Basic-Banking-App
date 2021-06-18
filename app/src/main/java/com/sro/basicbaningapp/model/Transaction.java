@@ -1,5 +1,5 @@
 package com.sro.basicbaningapp.model;
-
+// Code written by SWASTI RANJAN OJHA
 public class Transaction {
     String fromName;
     String toName;

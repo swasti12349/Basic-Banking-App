@@ -1,5 +1,5 @@
 package com.sro.basicbaningapp.activity;
-
+// Code written by SWASTI RANJAN OJHA
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;

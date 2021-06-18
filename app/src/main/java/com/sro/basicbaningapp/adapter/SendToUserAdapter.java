@@ -1,5 +1,5 @@
 package com.sro.basicbaningapp.adapter;
-
+// Code written by SWASTI RANJAN OJHA
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
